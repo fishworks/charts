@@ -20,6 +20,6 @@ spec:
         imagePullPolicy: Always
         env:
         - name: DEIS_API
-          value: http://deis-workflow
+          value: http://deis-controller
         ports:
         - containerPort: 9000
