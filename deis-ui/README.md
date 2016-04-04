@@ -1,7 +1,7 @@
 # Deis UI
 
 Deis UI is a third-party client-side web application that interfaces with the Deis API. It is
-installed into the deis namespace and communicates using the deis-worflow service. It also
+installed into the deis namespace and communicates using the deis-controller service. It also
 has certain annotations to "hack" itself into Deis' router as an external application.
 
 Ensure that you've installed either the deis or deis-dev charts before installing this chart,
